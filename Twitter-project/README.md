@@ -1,4 +1,4 @@
-PROJECT OVERVIEW
+---------------PROJECT OVERVIEW-----------
 
 The dataset that you will be wrangling (and analyzing and visualizing) is the tweet archive of Twitter user @dog_rates, also known as WeRateDogs. WeRateDogs is a Twitter account that rates people's dogs with a humorous comment about the dog. These ratings almost always have a denominator of 10. The numerators, though? Almost always greater than 10. 11/10, 12/10, 13/10, etc. Why? Because "they're good dogs Brent." WeRateDogs has over 4 million followers and has received international media coverage.
 
@@ -17,17 +17,17 @@ Step 6: Reporting
    your data wrangling efforts
    your data analyses and visualizations
 
-CONTEXT OF THE PROJECT
+----------------CONTEXT OF THE PROJECT----------
 
 The goal is to wrangle WeRateDogs Twitter data to create interesting and trustworthy analyses and visualizations. The Twitter archive is great, but it only contains very basic tweet information. Additional gathering, then assessing and cleaning is required for "Wow!"-worthy analyses and visualizations.
 
-DATASETS
+------------------DATASETS-----------------------
 
 (I) Enhanced Twitter Archive.
 (II) Additinal Data via the Twitter API.
 (III) Image Prediction File.
 
-FILES IN THE WORKSPACE
+----------------FILES IN THE WORKSPACE--------
 
 wrangle_act.ipynb: code for gathering, assessing, cleaning, analyzing, and visualizing data.
 
